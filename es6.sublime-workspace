@@ -1,0 +1,1839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"new"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"al",
+				"alphabet"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"book",
+				"book_genres"
+			],
+			[
+				"finished",
+				"finished_on"
+			],
+			[
+				"ass",
+				"assert_equal"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"cond",
+				"condition2"
+			],
+			[
+				"code",
+				"code_block"
+			],
+			[
+				"buil",
+				"build_back_else"
+			],
+			[
+				"ca",
+				"card_block"
+			],
+			[
+				"tag",
+				"tag_helper"
+			],
+			[
+				"build",
+				"build_style"
+			],
+			[
+				"all_",
+				"all_front"
+			],
+			[
+				"count",
+				"count_map"
+			],
+			[
+				"ts",
+				"tsv_compat_lst"
+			],
+			[
+				"sente",
+				"sentence_cnt"
+			],
+			[
+				"rege",
+				"regexter_parsers"
+			],
+			[
+				"parser",
+				"parser_inner"
+			],
+			[
+				"wrap",
+				"wrappexter"
+			],
+			[
+				"regexter_",
+				"regexter_wells"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"wra",
+				"wrappexter"
+			],
+			[
+				"init",
+				"init_keywords"
+			],
+			[
+				"html_",
+				"html_object"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"proce",
+				"processed_array"
+			],
+			[
+				"method",
+				"method_missing_one_most"
+			],
+			[
+				"sen",
+				"sentence_cnt"
+			],
+			[
+				"cou",
+				"count_str"
+			],
+			[
+				"front",
+				"frontless"
+			],
+			[
+				"ba",
+				"backless"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"reset",
+				"reset_space"
+			],
+			[
+				"in",
+				"inc_space"
+			],
+			[
+				"start",
+				"start_card"
+			],
+			[
+				"card",
+				"card_began"
+			],
+			[
+				"next",
+				"next_line"
+			],
+			[
+				"appl",
+				"apply_theme_block"
+			],
+			[
+				"apply_theme",
+				"apply_theme_single"
+			],
+			[
+				"pro",
+				"promo_price"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"bloc",
+				"block_given"
+			],
+			[
+				"fetc",
+				"fetchPhotos"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"Treasure",
+				"TreasureForm"
+			],
+			[
+				"trea",
+				"treasure_id"
+			],
+			[
+				"pdf",
+				"pdf_file"
+			],
+			[
+				"page",
+				"page_num"
+			],
+			[
+				"pd",
+				"pdf_file"
+			],
+			[
+				"MEDIA",
+				"MEDIA_ROOT"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"Tr",
+				"TreasureForm"
+			],
+			[
+				"MEDIA_",
+				"MEDIA_URL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 16 files for \"bungler\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/classes/car.js",
+			"settings":
+			{
+				"buffer_size": 546,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/collections/arrays.js",
+			"settings":
+			{
+				"buffer_size": 183,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1015,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/vehicle.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app.js",
+			"settings":
+			{
+				"buffer_size": 70,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes.js",
+			"settings":
+			{
+				"buffer_size": 1503,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/inheritance.js",
+			"settings":
+			{
+				"buffer_size": 511,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".eslintrc",
+			"settings":
+			{
+				"buffer_size": 392,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/ant_deploy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/ant_deploy2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 388.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"C",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 577.0
+	},
+	"console":
+	{
+		"height": 395.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/royce/github/rt-learn-lang/es6",
+		"/Users/royce/github/rt-learn-lang/es6/src",
+		"/Users/royce/github/rt-learn-lang/es6/src/collections"
+	],
+	"file_history":
+	[
+		"/Users/royce/github/rt-learn-lang/es6/.eslintrc",
+		"/Users/royce/github/rt-learn-lang/es6/package.json",
+		"/Users/royce/github/rt-learn-lang/es6/.eslintrc.json",
+		"/Users/royce/github/@forks/docker-coldfusion10/open?id=0Bwmlt4TArPS5N3dmLVd5UU9uRm8",
+		"/Users/royce/github/@others/linkedin-learning-downloader/config.py",
+		"/Users/royce/github/@others/LinkedIn-Learning-Download/config.py",
+		"/Users/royce/github/@others/LinkedIn-Learning-Download/requirements.txt",
+		"/Users/royce/github/@others/LinkedIn-Learning-Download/lld.py",
+		"/Users/royce/github/@others/linkedin-learning-dl/main.py",
+		"/Users/royce/github/blinkist-ebook-scraper/scrape.py",
+		"/Users/royce/github/blinkist-ebook-scraper/ez_epub.py",
+		"/Users/royce/github/blinkist-ebook-scraper/epub.py",
+		"/Users/royce/github/anki.md/README.md",
+		"/Users/royce/github/learn-cf/lang_syntax/02 Components/13 Components.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/index.html",
+		"/Users/royce/github/learn-cf/lang_syntax/02 Components/component.cfc",
+		"/Users/royce/github/learn-cf/lang_syntax/12 Functions.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/11 Email.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/10 Error handling.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/09 Debugging.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/08 Redirect.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/07 Arrays.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/06 Lists.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/05 Database Queries.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/04 Loops.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/03 Conditional Statements.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/02 Variables.cfml",
+		"/Users/royce/github/learn-cf/lang_syntax/01 include.cfml",
+		"/Users/royce/github/learn-ruby-new/lang_syntax/Gemfile",
+		"/Users/royce/github/learn-ruby-new/lang_syntax/app/basic/variable_declaration.rb",
+		"/Users/royce/github/learn-ruby-new/lang_syntax/Guardfile",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/.rspec",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/Gemfile",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/Guardfile",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/spec/game_spec.rb",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/README.md",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/lib/game.rb",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/spec/spec_helper.rb",
+		"/Users/royce/github/learn-ruby-new/cstv-guard-and-spork/.ruby-version",
+		"/Users/royce/github/learn-ruby-new/cstv-rspec3-best-practices/Gemfile",
+		"/Users/royce/github/learn-ruby-new/cstv-rspec3-best-practices/lib/game.rb",
+		"/Users/royce/github/learn-ruby-new/cstv-rspec3-best-practices/spec/game_spec.rb",
+		"/Users/royce/github/learn-ruby-new/cstv-rspec3-best-practices/script.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/Gemfile",
+		"/Users/royce/github/learn-ruby-new/factory-girl/test/factories/guitars.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/test/factories/users.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/README.md",
+		"/Users/royce/github/learn-ruby-new/factory-girl/test/factories/store_locations.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/app/models/guitar.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/app/models/application_record.rb",
+		"/Users/royce/github/learn-ruby-new/factory-girl/db/schema.rb",
+		"/Users/royce/github/learn-scala/getting-started/HelloWorld.scala",
+		"/Users/royce/github/learn-scala/getting-started/.gitignore",
+		"/Users/royce/github/learn-scala/getting-started/script.sh",
+		"/Users/royce/github/learn-scala/getting-started/README.md",
+		"/Users/royce/github/learn-ruby-new/rake/03 Create file and directory/Rakefile",
+		"/Users/royce/github/rake/Rakefile",
+		"/Users/royce/github/anki.md/.rubocop.yml",
+		"/Users/royce/github/anki.md/lib/dsl/html_object.rb",
+		"/Users/royce/github/anki.md/lib/each_card_state.rb",
+		"/Users/royce/github/anki.md/lib/card_helper.rb",
+		"/Users/royce/github/anki.md/lib/mylogger.rb",
+		"/Users/royce/github/anki.md/spec/.rubocop.yml",
+		"/Users/royce/github/anki.md/bin/collect_important_api.rb",
+		"/Users/royce/github/anki.md/lib/html_builder.rb",
+		"/Users/royce/github/anki.md/lib/highlighter/highlighter_angular.rb",
+		"/Users/royce/github/anki.md/spec/bin/main_class_spec.rb",
+		"/Users/royce/github/anki.md/bin/api_source_tagger.rb",
+		"/Users/royce/github/anki.md/spec/tag_helper_spec.rb",
+		"/Users/royce/github/anki.md/spec/source_reader_spec.rb",
+		"/Users/royce/github/anki.md/spec/latest_file_finder_spec.rb",
+		"/Users/royce/github/anki.md/spec/html_helper_spec.rb",
+		"/Users/royce/github/anki.md/spec/html_generator_spec.rb",
+		"/Users/royce/github/anki.md/spec/html/style_list_spec.rb",
+		"/Users/royce/github/anki.md/spec/html/html_class_finder_spec.rb",
+		"/Users/royce/github/anki.md/spec/dsl/html_dsl_spec.rb",
+		"/Users/royce/github/anki.md/lib/html/style_helper copy.rb",
+		"/Users/royce/github/anki.md/lib/highlighter/highlighter_jquery.rb",
+		"/Users/royce/github/anki.md/bin/card_counter.rb",
+		"/Users/royce/github/anki.md/lib/html/code.rb",
+		"/Users/royce/github/anki.md/lib/html_generator.rb",
+		"/Users/royce/github/anki.md/tests/test_code_detector.rb",
+		"/Users/royce/github/anki.md/tests/test_htmlhelper.rb",
+		"/Users/royce/github/anki.md/lib/html/style_generator.rb",
+		"/Users/royce/github/anki.md/bin/main_class.rb",
+		"/Users/royce/github/anki.md/bin/spec_maker.rb",
+		"/Users/royce/github/anki.md/bin/upload.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/app/models/user.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/app/jobs/mailer_job.rb",
+		"/Users/royce/github/anki.md/lib/latest_file_finder.rb",
+		"/Users/royce/github/anki.md/lib/reviewer.rb",
+		"/Users/royce/github/anki.md/spec/reviewer_spec.rb",
+		"/Users/royce/github/anki.md/lib/config.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/config/environments/development.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/README.md",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/db/schema.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/app/mailers/user_mailer.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/app/views/user_mailer/send_mailer.html.erb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/Gemfile",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/.rubocop.yml",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/app/models/application_record.rb",
+		"/Users/royce/github/learn-ruby-new/delayed_job_app/db/migrate/20170414004821_create_users.rb",
+		"/Users/royce/github/learn-ruby-new/gem_demo/README.md",
+		"/Users/royce/github/learn-ruby-new/gem_bundle_demo/lib/gem_bundle_demo.rb",
+		"/Users/royce/github/learn-ruby-new/gem_bundle_demo/gem_bundle_demo.gemspec",
+		"/Users/royce/github/anki.md/lib/regextration_store.rb",
+		"/Users/royce/github/anki.md/Gemfile",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/RuboCop.sublime-settings",
+		"/Users/royce/github/Anki-Tools/anki_card_maker/lib/html_generator.rb",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 5/expenses/mix.exs",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 5/expenses/README.md",
+		"/Users/royce/github/anki.md/lib/source_parser.rb",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 1/1.2 Invoking Anonymous Functions.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 1/1.6 Running Transactions.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 1/1.7 Performing Operations.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 1/1.8 Shorthand Syntax.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 3/3.3 Pattern Matching Tuples.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 3/3.4 Tuples in Function Signature.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 3/3.7 Printer With Options.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 3/3.11 Map Pattern Matching.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 3/3.12 Nested Map Pattern Matching.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 4/4.3 Transfer With case.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 4/4.4 Adding a Guard Clause.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 4/4.7 The Validator.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 5/expenses/lib/expenses.ex",
+		"/Users/royce/github/learn-elixir/elixir_lang/Level 2/2.3 Pattern Matching Lists.ex",
+		"/Users/royce/github/learn-js/html_scraper/codeschool_tasks_elixir.coffee"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bungler"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/royce/github/rt-learn-lang/es6",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/car.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"SL.107.region_keys":
+							[
+								"SL.eslint.Highlights.|3462509650fd0d5ce6076a599f35f9c82f25fc7f973276dd89bf5daac6bdee13|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|73e57b21e2dfa0de4eca03cc6042c14bb172e5367eb0d750a1fd4f15afbe35c2|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|2880d3ca77532f1ac273061e68ed3e50e2e8e1868dacbb43bdec43140191fea0|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|6568193c9be11032b164eb818208d4780025829b84164ee42818cb45d828e78e|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.116.region_keys":
+							[
+								"SL.eslint.Highlights.|13eefc6a4377b449fa3134857990f11a4e56d0f61a8b093b154d036a2e46e869|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3462509650fd0d5ce6076a599f35f9c82f25fc7f973276dd89bf5daac6bdee13|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|73e57b21e2dfa0de4eca03cc6042c14bb172e5367eb0d750a1fd4f15afbe35c2|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|2880d3ca77532f1ac273061e68ed3e50e2e8e1868dacbb43bdec43140191fea0|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|6568193c9be11032b164eb818208d4780025829b84164ee42818cb45d828e78e|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.138.region_keys":
+							[
+								"SL.eslint.Highlights.|d1fcf709e2e69e62b627e0e0f85e9222e44f0cd9dee6feedfdea2ab1822bd125|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|789d3179dde47dc536439f56167dace6e501988d1e655a3841d33ea4b55e991a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|13eefc6a4377b449fa3134857990f11a4e56d0f61a8b093b154d036a2e46e869|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a0bfe10f838c57851efa4b20fd3a6708af65b2fa5afa80092cc73008ffdb004b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3462509650fd0d5ce6076a599f35f9c82f25fc7f973276dd89bf5daac6bdee13|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|886d69d96c3d002164087e8de29dfbba0082b6cf9cc7abe0c1aa2c7a7449fd44|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|73e57b21e2dfa0de4eca03cc6042c14bb172e5367eb0d750a1fd4f15afbe35c2|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6568193c9be11032b164eb818208d4780025829b84164ee42818cb45d828e78e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|9a842e477b203bb85f9b0d5541317ca4ad155689f252ecf7c897540f099c446e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ac17cd7b1f83ccdc0be3927db437663539a676b4bb1eb4097d44ad3bf909765f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d4914e2fa5965b307c736635dc2cf2f086e1f9959574421f754be8a76d1b6157|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c57fded7b97ab245ed507a5c7dba539fdc94f89200a226d89e19ca785036842c|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.148.region_keys":
+							[
+								"SL.eslint.Highlights.|d1fcf709e2e69e62b627e0e0f85e9222e44f0cd9dee6feedfdea2ab1822bd125|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|789d3179dde47dc536439f56167dace6e501988d1e655a3841d33ea4b55e991a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|13eefc6a4377b449fa3134857990f11a4e56d0f61a8b093b154d036a2e46e869|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a0bfe10f838c57851efa4b20fd3a6708af65b2fa5afa80092cc73008ffdb004b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3462509650fd0d5ce6076a599f35f9c82f25fc7f973276dd89bf5daac6bdee13|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|886d69d96c3d002164087e8de29dfbba0082b6cf9cc7abe0c1aa2c7a7449fd44|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|73e57b21e2dfa0de4eca03cc6042c14bb172e5367eb0d750a1fd4f15afbe35c2|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6568193c9be11032b164eb818208d4780025829b84164ee42818cb45d828e78e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|9a842e477b203bb85f9b0d5541317ca4ad155689f252ecf7c897540f099c446e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ac17cd7b1f83ccdc0be3927db437663539a676b4bb1eb4097d44ad3bf909765f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d4914e2fa5965b307c736635dc2cf2f086e1f9959574421f754be8a76d1b6157|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c57fded7b97ab245ed507a5c7dba539fdc94f89200a226d89e19ca785036842c|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.156.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.165.region_keys":
+							[
+								"SL.eslint.Highlights.|d1fcf709e2e69e62b627e0e0f85e9222e44f0cd9dee6feedfdea2ab1822bd125|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|789d3179dde47dc536439f56167dace6e501988d1e655a3841d33ea4b55e991a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|13eefc6a4377b449fa3134857990f11a4e56d0f61a8b093b154d036a2e46e869|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a0bfe10f838c57851efa4b20fd3a6708af65b2fa5afa80092cc73008ffdb004b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3462509650fd0d5ce6076a599f35f9c82f25fc7f973276dd89bf5daac6bdee13|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|886d69d96c3d002164087e8de29dfbba0082b6cf9cc7abe0c1aa2c7a7449fd44|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|73e57b21e2dfa0de4eca03cc6042c14bb172e5367eb0d750a1fd4f15afbe35c2|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|6568193c9be11032b164eb818208d4780025829b84164ee42818cb45d828e78e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|9a842e477b203bb85f9b0d5541317ca4ad155689f252ecf7c897540f099c446e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ac17cd7b1f83ccdc0be3927db437663539a676b4bb1eb4097d44ad3bf909765f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d4914e2fa5965b307c736635dc2cf2f086e1f9959574421f754be8a76d1b6157|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c57fded7b97ab245ed507a5c7dba539fdc94f89200a226d89e19ca785036842c|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.26.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.90.region_keys":
+							[
+								"SL.eslint.Highlights.|b2ac2c0efa4dc43ba5bdbd78c2bb6e852b66a7728bf74e1728d3affe0eb36a45|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|89881e8db8899643a40d3339a037eab79fe495b59e11e5ac387f5d531a1650a4|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|1c640271eca9d37565f34d88470980d9792ffaa587330930887d4c2b059ce276|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|f5c27fc6d648750acd8d988e90782995881df22ec071b55cb2447feca941095a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|2880d3ca77532f1ac273061e68ed3e50e2e8e1868dacbb43bdec43140191fea0|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.96.region_keys":
+							[
+								"SL.eslint.Highlights.|b2ac2c0efa4dc43ba5bdbd78c2bb6e852b66a7728bf74e1728d3affe0eb36a45|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|89881e8db8899643a40d3339a037eab79fe495b59e11e5ac387f5d531a1650a4|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|1c640271eca9d37565f34d88470980d9792ffaa587330930887d4c2b059ce276|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|2880d3ca77532f1ac273061e68ed3e50e2e8e1868dacbb43bdec43140191fea0|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/collections/arrays.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"SL.38.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								951,
+								951
+							]
+						],
+						"settings":
+						{
+							"SL.169.region_keys":
+							[
+							],
+							"SL.27.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/classes/vehicle.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"SL.111.region_keys":
+							[
+								"SL.eslint.Highlights.|244c314b486af44abb82f2a7de7beea4420b749b6ff42223ead17ac6f53485a9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|e67376fcd91f69bafa55f80d6a068f0d881df0ee97ee9372ee462e14d1e254ef|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|670e42edf4c57bcaafa3864f72aabe9399170df5d01d369558c46c257662932d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|6a3f8162e18ce2633902686c3c4c5553d71bd679f44ec31d323dde56cc3c7b02|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|b4cde629cfa38ce181e24e42294eabda1eb271e4940c27ef13c34047f1cae6ad|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.117.region_keys":
+							[
+								"SL.eslint.Highlights.|244c314b486af44abb82f2a7de7beea4420b749b6ff42223ead17ac6f53485a9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|e67376fcd91f69bafa55f80d6a068f0d881df0ee97ee9372ee462e14d1e254ef|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|670e42edf4c57bcaafa3864f72aabe9399170df5d01d369558c46c257662932d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|6a3f8162e18ce2633902686c3c4c5553d71bd679f44ec31d323dde56cc3c7b02|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|b4cde629cfa38ce181e24e42294eabda1eb271e4940c27ef13c34047f1cae6ad|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.139.region_keys":
+							[
+								"SL.eslint.Highlights.|1456f61016423a8ec5a747d20e41d0990e481a682c3e6a28fa1cfc9cf70f8cd6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b4cde629cfa38ce181e24e42294eabda1eb271e4940c27ef13c34047f1cae6ad|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|1fca9ac93141eb735e924da6970fabcbeab6bfd9defd6dd774dcf2c7e0fd4613|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|670e42edf4c57bcaafa3864f72aabe9399170df5d01d369558c46c257662932d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|6a3f8162e18ce2633902686c3c4c5553d71bd679f44ec31d323dde56cc3c7b02|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|e67376fcd91f69bafa55f80d6a068f0d881df0ee97ee9372ee462e14d1e254ef|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|85399a6f364e46c5ffa30e12c586eae5b9e46a5d6b04880d6fed37f12de59803|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|64dd31d304c95718149c8e466a53af6b5d6fef273e006574a820eb25848f706a|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|3870089ae6ed1e8663cc2c771cb905212dfaeccc809cbfb01efc65f4e84efc58|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.28.region_keys":
+							[
+								"SL.eslint.Highlights.|469aa34af8716def9a54454fcbd2bfa70b34ef5c9a42bc589ea4ea4b8cda58fb|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|4009ef9d6b75d976ce0d446877e97b6dd20e8fefc3fc53e02c1c69e49c65c883|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a9568ee125077cc570c1c2e8cc2807d0f8df25968ff105f66287b43733948603|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|01498996004073ccf50d63146d6eabe12b96509eaf3ddf60ee6d88ffd4c8c226|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|670e42edf4c57bcaafa3864f72aabe9399170df5d01d369558c46c257662932d|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.86.region_keys":
+							[
+								"SL.eslint.Highlights.|473d6cbc32b4fe0e3764ae95c8c1e0035f4e62bdb4173ac46ee4ff5db24fa530|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|0e40da7c961f230d095165c19cd1a3dfe3e6ed3b062012a07e36ae91f282cb7a|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|670e42edf4c57bcaafa3864f72aabe9399170df5d01d369558c46c257662932d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+								"SL.eslint.Highlights.|c86dd1ee1a38c5b084d2b21f37519dd9078a0871a82ccbe288e5e4be81a05322|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"SL.89.region_keys":
+							[
+								"SL.eslint.Highlights.|c86dd1ee1a38c5b084d2b21f37519dd9078a0871a82ccbe288e5e4be81a05322|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|2630ce57b75b00e4b07bff8a2b80e4edeb3e5b2e4ff9b434d43f8b7f99a8bbe6|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/classes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"SL.101.region_keys":
+							[
+								"SL.eslint.Highlights.|6403ea8a18e03254c093ecabc5aa64d172d7b5aaf247ef10ed61374d1ae064c2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|341af4d3071807ee5dedfda34837bf61d7f1ef337334ca46e15e45951934652d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0798fbcb3f6430c910a8c261e858855416022d9cd0790178d9da65a9ac2ef051|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|66379745c753b28bb8027dbe6af8eb0304183ef5fac04050450ab41c94efac05|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|004605f80826f467becbe7976c61ab531d169671ccd52a46ecd5a1d0a56a8f94|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9339b53d26b4e0fa4010001c5f1b5ca790c47f0e0cb319775b05ecd2583dac73|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|2c770e2be10b132d2411df9efcdd93f25797b7cdb58411ee47b73f8a2db80c97|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|1e827681aa97a83fcd629bb18ad1fe8add289247aa38a8a9f91225779176e487|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|cd81a97e6b3f05a296a80568d8d37141fe3fb0ea892b3bf12a59b4fb75c67995|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|711afb8f7a76fc467b97f43e61d690c15eb887204a47bfbc84c81598aca10f5c|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|dce06ec3171a0343381df24a3e3175951b1bff8c83b86a95013a2589a392369a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0bd270ea987402e5c90085eacc0a8f037e6735779e9528b70b7159c8f32a8f7d|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.30.region_keys":
+							[
+								"SL.eslint.Highlights.|6403ea8a18e03254c093ecabc5aa64d172d7b5aaf247ef10ed61374d1ae064c2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|341af4d3071807ee5dedfda34837bf61d7f1ef337334ca46e15e45951934652d|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|2c770e2be10b132d2411df9efcdd93f25797b7cdb58411ee47b73f8a2db80c97|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9339b53d26b4e0fa4010001c5f1b5ca790c47f0e0cb319775b05ecd2583dac73|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|711afb8f7a76fc467b97f43e61d690c15eb887204a47bfbc84c81598aca10f5c|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0798fbcb3f6430c910a8c261e858855416022d9cd0790178d9da65a9ac2ef051|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|dce06ec3171a0343381df24a3e3175951b1bff8c83b86a95013a2589a392369a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|cd81a97e6b3f05a296a80568d8d37141fe3fb0ea892b3bf12a59b4fb75c67995|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0bd270ea987402e5c90085eacc0a8f037e6735779e9528b70b7159c8f32a8f7d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|004605f80826f467becbe7976c61ab531d169671ccd52a46ecd5a1d0a56a8f94|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|66379745c753b28bb8027dbe6af8eb0304183ef5fac04050450ab41c94efac05|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1e827681aa97a83fcd629bb18ad1fe8add289247aa38a8a9f91225779176e487|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.90.region_keys":
+							[
+								"SL.eslint.Highlights.|1672b559f290d0449fb80fe2dfea251136aaec22b2744b763980263a2071986e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|3a5df85a24dba38249df7dfbb8883e9c9f778eaed7229252258633ca388c17ef|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|38aca3693c5bb22eb37ea2d9b26b57cc2f2178afd1ab4bf9c77460b40435bdfc|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ee92a2f09d7ce3f2b9d11317fad62601b73376d2cc68d2afcbbe79b05574ef3a|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|804bb82d8855316f6afea8e2fc87beb1b5f8c0e01a221cb04d802f0f4a724b92|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|282b3cc5983eef8aa14a6e186d5a38c6b7d6076085a0d7c5bd633abed823534f|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|6082359269e2d66eeb630ad9a0ba965357925ee17c966f69a646941f8b1a1c33|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8133126433c3be90347cb6ec109d9484fa37d33615b700c2704dbaf79034c844|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|e86193b487cc830a21bb5f057d8cd56b1b1d3e7136e65ed30e13f29ed2cd5188|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c89081596d2b7eae77fe4511fa4cf0e7f25c190eec9894c8ec4a026a1a39d68d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|95991ac8a3c5e9c245d97ee48d9e7e7bc79bdba2545687286067c0c90e508629|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|9fe07da08a87f429e99ac6497d923feeafb90de27ac0acd68ee010403f13639e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b179cb20c01c6be58a2322090631acb7e09cde56b43298c372d3bc9f563413e5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|4f479e0eb2764bfd2e57d602e2e6c48358ca5658d973e96c9807c8020ad0f1d8|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c1476b7b7ed92389df6bdf5fac8f2ebba8b229addbb5261656afb13a1425cf6c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|0da764c05e2eb3a9cc2aba1d953d5ee5af8e14e4706bcbb97d3db721e6006e87|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|5416aa83afc797d1b7c41c262d48dfeb9b35e26123fafac851c8437c73e772fa|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|dbfaa2f47887e35231d86f34ba35fd667fdd9e22d5246b3d243b28963faee2a4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3df6557d8d13da18dd449610f3be949dc864fc0f96b5db8a0d15c922b0ebed29|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|549cd02f816d5af0606c6d0bb3f1850ecafb7e48d29392254ed6fb1b003a3253|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|04b18b9f81ce7ff6c91c3e36d54574cf6c8318d7ea232d478c7ee2d3cc55d0af|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|5cc0363c416cf9c48d3612b58036a3dda9b17dd124b704cd9856e6f47319135e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|1ffd1c6c7625161aaa726d64a6ecbdbf70bd5cdefab47af7a4f9de8335a8ac92|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|40575f830e5bdbdd8a5e13be5ec130c48530e62f4b887ca64c24482a871bfbfa|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|e309b03e468126a17a32fb0ec3cf76fbb5cc48804e5c1b3771bb1403fef338c3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|f2deeaf4c3518b5443522a14860e2a8eec35e53c0d7320b16a34d97119135691|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|857f2445b4fbfadd29b3c3a07026625ca4f2c1836a1514b43268e639ba76afbb|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|2aff25928d0dc9a7bbc964a8481a1a8405f450ba2df1bd72c65dfe2e2cf91fae|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|8d569b275081147ee4f6d73a3c4c96c85d883c97d647fdacb2c85f24c60201cd|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|b259c30d168be06e13454896097bd49bb807b33376b4bba1ec3b89e8437a53df|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|3ea5f87aee9a83edfd5ab2fe8497c42006e9fb9922aeda41248d67b964e0962e|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|59912f425e79c52449971db33c41cc873ce66f3f72dc8efd51f1563ca3980141|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3631955b64a2a1006d476e3efc171704c2beedd830207a006ec2b1e5d6143117|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|226eb0aafd10b845d656bac2ed0eeee4b3553a8eab7f44906357f9d27879bc1a|region.redish markup.error.sublime_linter|32"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/inheritance.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"SL.107.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|89692f8eb2c18268afdf7eef2796b7cdba4e66fe46a02e56ad89f93554664449|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b5b3a59b6f167be4fa329773f52cf19f5de9d8c51a9bb62042b9e595f67df3c5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.31.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": ".eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"SL.105.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (ESLint).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 263.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 129.0
+	},
+	"output.exec":
+	{
+		"height": 288.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "es6.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".e",
+				".eslintrc"
+			],
+			[
+				"pca",
+				"package.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"main_class.rb",
+				"bin/main_class.rb"
+			],
+			[
+				"rea",
+				"factory-girl/README.md"
+			],
+			[
+				"guitar",
+				"factory-girl/app/models/guitar.rb"
+			],
+			[
+				"gem",
+				"factory-girl/Gemfile"
+			],
+			[
+				"html_object.rb",
+				"lib/dsl/html_object.rb"
+			],
+			[
+				"main_class",
+				"bin/main_class.rb"
+			],
+			[
+				"up",
+				"anki.md/bin/upload.rb"
+			],
+			[
+				"rev",
+				"anki.md/spec/reviewer_spec.rb"
+			],
+			[
+				"revi",
+				"anki.md/lib/reviewer.rb"
+			],
+			[
+				"card",
+				"anki.md/bin/card_counter.rb"
+			],
+			[
+				"latest_file_finder.rb",
+				"anki.md/lib/latest_file_finder.rb"
+			],
+			[
+				"mailer",
+				"app/jobs/mailer_job.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"mailer_jo",
+				"delayed_job_app/app/jobs/mailer_job.rb"
+			],
+			[
+				"config/env",
+				"delayed_job_app/config/environments/development.rb"
+			],
+			[
+				"schema",
+				"delayed_job_app/db/schema.rb"
+			],
+			[
+				"rubo",
+				"anki.md/.rubocop.yml"
+			],
+			[
+				"gemfil",
+				"anki.md/Gemfile"
+			],
+			[
+				"html",
+				"anki.md/lib/html_generator.rb"
+			],
+			[
+				"html_generator",
+				"anki.md/spec/html_generator_spec.rb"
+			],
+			[
+				"html_build",
+				"anki.md/lib/html_builder.rb"
+			],
+			[
+				"html_object",
+				"anki.md/lib/dsl/html_object.rb"
+			],
+			[
+				"source_parser",
+				"anki_card_maker/lib/source_parser.rb"
+			],
+			[
+				"gemf",
+				"anki.md/Gemfile"
+			],
+			[
+				"tag_",
+				"anki.md/lib/tag_helper.rb"
+			],
+			[
+				"html_",
+				"anki.md/spec/html_generator_spec.rb"
+			],
+			[
+				"html_ge",
+				"anki.md/lib/html_generator.rb"
+			],
+			[
+				"source",
+				"anki.md/lib/source_parser.rb"
+			],
+			[
+				"tag_helper",
+				"anki.md/lib/tag_helper.rb"
+			],
+			[
+				"html_ds",
+				"anki.md/lib/dsl/html_dsl.rb"
+			],
+			[
+				"html_gen",
+				"anki.md/lib/html_generator.rb"
+			],
+			[
+				"list_ge",
+				"anki.md/lib/html/style_generator.rb"
+			],
+			[
+				"mark",
+				"anki.md/lib/markdown.rb"
+			],
+			[
+				"upl",
+				"anki.md/bin/upload.rb"
+			],
+			[
+				"collection",
+				"anki.md/bin/collect_important_api.rb"
+			],
+			[
+				"main",
+				"anki.md/bin/main_class.rb"
+			],
+			[
+				"markd",
+				"anki.md/lib/markdown.rb"
+			],
+			[
+				"card_",
+				"anki.md/bin/card_counter.rb"
+			],
+			[
+				"latest",
+				"anki.md/lib/latest_file_finder.rb"
+			],
+			[
+				"rub",
+				"anki.md/.rubocop.yml"
+			],
+			[
+				"spec_",
+				"spec/spec_helper.rb"
+			],
+			[
+				"spec_helper",
+				"gem_demo/spec/spec_helper.rb"
+			],
+			[
+				"gemspec",
+				"gem_demo/gem_demo.gemspec"
+			],
+			[
+				"gems",
+				"gemdemo/gemdemo.gemspec"
+			],
+			[
+				"index",
+				"app/views/categories/index.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"soups",
+				"app/controllers/soups_controller.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"soup",
+				"app/models/soup.rb"
+			],
+			[
+				"show",
+				"app/views/soups/show.html.erb"
+			],
+			[
+				"soups_co",
+				"app/controllers/soups_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"soups_",
+				"app/controllers/soups_controller.rb"
+			],
+			[
+				"cate",
+				"app/models/category.rb"
+			],
+			[
+				"sou",
+				"app/models/soup.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"categories_c",
+				"app/controllers/categories_controller.rb"
+			],
+			[
+				"categries_c",
+				"app/controllers/categories_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"books",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"book_re",
+				"app/models/book_genre.rb"
+			],
+			[
+				"book",
+				"app/models/book.rb"
+			],
+			[
+				"contr",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"books_",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"genre",
+				"app/models/genre.rb"
+			],
+			[
+				"gen",
+				"app/models/genre.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"booksc",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"scaffol",
+				"app/assets/stylesheets/scaffolds.scss"
+			],
+			[
+				"b",
+				"app/models/book.rb"
+			],
+			[
+				"books.",
+				"app/assets/stylesheets/books.scss"
+			],
+			[
+				"books.css",
+				"app/assets/stylesheets/books.scss"
+			],
+			[
+				"app/views/index",
+				"app/views/books/index.html.erb"
+			],
+			[
+				"readme",
+				"ReadingList/README.md"
+			],
+			[
+				"em",
+				"vendor/assets/javascripts/ember-1.4.0.js"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			],
+			[
+				"creat",
+				"test/integration/creating_books_test.rb"
+			],
+			[
+				"listig",
+				"test/integration/listing_genres_test.rb"
+			],
+			[
+				"listing",
+				"test/integration/listing_genres_test.rb"
+			],
+			[
+				"dele",
+				"test/integration/deleting_books_test.rb"
+			],
+			[
+				"crea",
+				"test/integration/creating_books_test.rb"
+			],
+			[
+				"listi",
+				"test/integration/listing_books_test.rb"
+			],
+			[
+				"",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"delete",
+				"test/integration/deleting_books_test.rb"
+			],
+			[
+				"list",
+				"test/integration/listing_books_test.rb"
+			],
+			[
+				"te",
+				"test/test_helper.rb"
+			],
+			[
+				"seria",
+				"app/serializers/book_serializer.rb"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"addm",
+				"db/migrate/20170131035527_add_missing_attributes_to_books.rb"
+			],
+			[
+				"test",
+				"test/test_helper.rb"
+			],
+			[
+				"lis",
+				"test/integration/listing_books_test.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"boo",
+				"app/models/book.rb"
+			],
+			[
+				"finished",
+				"app/controllers/finished_books_controller.rb"
+			],
+			[
+				"add",
+				"db/migrate/20170131003754_add_finished_at_to_books.rb"
+			],
+			[
+				"tag_counter",
+				"spec/tag_counter_spec.rb"
+			],
+			[
+				"main_",
+				"bin/main_class.rb"
+			],
+			[
+				"card_hel",
+				"spec/card_helper_spec.rb"
+			],
+			[
+				"java",
+				"anki_card_maker/spec/highlighter/highlighter_java_spec.rb"
+			],
+			[
+				"code",
+				"anki_card_maker/lib/html/code.rb"
+			],
+			[
+				"html_genera",
+				"anki_card_maker/lib/html_generator.rb"
+			],
+			[
+				"base_",
+				"anki_card_maker/spec/highlighter/base_highlighter_spec.rb"
+			],
+			[
+				"base",
+				"anki_card_maker/lib/highlighter/base_highlighter.rb"
+			],
+			[
+				"inline",
+				"anki_card_maker/lib/html/inline.rb"
+			],
+			[
+				"html_utils",
+				"anki_card_maker/lib/utils/html_utils.rb"
+			],
+			[
+				"code_de",
+				"anki_card_maker/spec/code_detector_spec.rb"
+			],
+			[
+				"inlin",
+				"anki_card_maker/lib/html/inline.rb"
+			],
+			[
+				"style",
+				"anki_card_maker/lib/html/style_generator.rb"
+			],
+			[
+				"code_det",
+				"anki_card_maker/spec/code_detector_spec.rb"
+			],
+			[
+				"code_",
+				"anki_card_maker/lib/code_detector.rb"
+			],
+			[
+				"theme",
+				"anki_card_maker/lib/theme_store.rb"
+			],
+			[
+				"select",
+				"anki_card_maker/lib/dsl/selector_dsl.rb"
+			],
+			[
+				"selector",
+				"anki_card_maker/lib/dsl/selector_dsl.rb"
+			],
+			[
+				"uplo",
+				"anki_card_maker/bin/upload.rb"
+			],
+			[
+				"main_re",
+				"anki_card_maker/bin/main_requires.rb"
+			],
+			[
+				"main_s",
+				"anki_card_maker/bin/main_script.rb"
+			],
+			[
+				"reve",
+				"anki_card_maker/spec/reviewer_spec.rb"
+			],
+			[
+				"review",
+				"anki_card_maker/lib/reviewer.rb"
+			],
+			[
+				"rake",
+				"anki_card_maker/Rakefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/github/order-orchestration/order-orchestration.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

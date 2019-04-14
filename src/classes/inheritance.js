@@ -1,7 +1,7 @@
-import { Vehicle } from './classes/vehicle.js'
-import { Car } from './classes/car.js';
+import Vehicle from './classes/vehicle'
+import Car from './classes/car'
 
-let car1 = new Car('A123');
+const car1 = new Car('A123')
 console.log(`car1 is instance of Car: ${car1 instanceof Car}`)
 console.log(`car1 is instance of Vehicle: ${car1 instanceof Vehicle}`)
 console.log(`car1 is instance of Object: ${car1 instanceof Object}`)

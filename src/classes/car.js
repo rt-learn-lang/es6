@@ -1,6 +1,6 @@
-import { Vehicle } from './vehicle.js'
+import Vehicle from './vehicle'
 
-export class Car extends Vehicle {
+export default class Car extends Vehicle {
   constructor(licenseNumber) {
     // This is required, regardless if you omit the constructor in Vehicle
     // because there will be an implied costructor if you try to omit the one in
