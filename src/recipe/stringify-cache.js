@@ -1,9 +1,9 @@
 // Demo: Circular reference
-var o = {};
-o.o = o;
+const o = {}
+o.o = o
 
 // Note: cache should not be re-used by repeated calls to JSON.stringify.
-var cache = [];
+var cache = []
 JSON.stringify(o, function(key, value) {
     if (typeof value === 'object' && value !== null) {
         if (cache.indexOf(value) !== -1) {
@@ -20,5 +20,5 @@ JSON.stringify(o, function(key, value) {
         cache.push(value);
     }
     return value;
-});
-cache = null; // Enable garbage collection
+})
+cache = null // Enable garbage collection
